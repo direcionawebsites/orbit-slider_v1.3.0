@@ -1,0 +1,14 @@
+{
+  "name": "orbit_slider",
+  "homepage": "https://github.com/quinhone/orbit_slider",
+  "_release": "a485e7a450",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a485e7a4505c9301a955530713b9d2a305d1a682"
+  },
+  "_source": "https://github.com/quinhone/orbit_slider.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/quinhone/orbit_slider.git",
+  "_direct": true
+}
