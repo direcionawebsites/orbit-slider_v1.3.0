@@ -1,0 +1,33 @@
+{
+  "name": "OrbitSlider",
+  "description": "Descrição sobre o pacote",
+  "readmeFilename": "README.md" ,
+  "keywords": [
+    "OrbitSlider",
+    "jQuery lightbox, slider",
+    "galeria, fotos"
+  ],
+  "tags": [
+    "OrbitSlider",
+    "galeria"
+  ],
+  "version": "3.1.6",
+  "author": {
+    "name": "OrbitSlider",
+    "email": "lcquinhone@gmail.com",
+    "homepage": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/direcionawebsites/orbit-slider_v1.3.0.git"
+  },
+  "dependencies":{
+    
+  },
+  "license": "MIT",
+  "engines": {
+    
+  },
+  "main": "index.js"
+}
+
